@@ -12,3 +12,11 @@ Memory game
 * createElement
 * Sort 
 * math.random.
+
+Game - space invaders
+* for loops
+* addEventListener
+* classList
+* document.querySelector
+* Timeout
+* switch case
