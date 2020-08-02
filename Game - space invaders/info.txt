@@ -1,0 +1,10 @@
+
+
+We are also going to be looking at:
+
+* for loops
+* addEventListener
+* classList
+* document.querySelector
+* Timeout
+* switch case
