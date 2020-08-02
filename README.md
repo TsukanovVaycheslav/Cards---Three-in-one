@@ -2,7 +2,7 @@
 
 We use:
 
-Game - Memory game
+Game - Memory
 * for loops
 * addEventListener
 * setAttribute
