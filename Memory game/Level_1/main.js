@@ -9,11 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/fries.png'
     },
     {
-      name: 'fries',
-      img: 'images/fries.png'
-    },
-    /*
-    {
       name: 'cheeseburger',
       img: 'images/cheeseburger.png'
     },
@@ -57,7 +52,6 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'hotdog',
       img: 'images/hotdog.png'
     }
-    */
   ]
 
   cardArray.sort(() => 0.5 - Math.random())
