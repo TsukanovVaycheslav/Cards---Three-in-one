@@ -2,7 +2,7 @@
 
 We use:
 
-Memory game
+Game - Memory game
 * for loops
 * addEventListener
 * setAttribute
@@ -15,7 +15,7 @@ Memory game
 
 
 
-Game - space invaders
+Game - Space invaders
 * for loops
 * addEventListener
 * classList
