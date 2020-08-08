@@ -1,6 +1,6 @@
 # Cards-Three-in-one
 
-We use:
+Inbuilt JavaScript functions I have used:
 
 Memory Game
 * for loops
@@ -22,3 +22,22 @@ Game - Space invaders
 * document.querySelector
 * Timeout
 * switch case
+
+Game - PACMAN
+- addEventListener()
+- getElementById()
+- querySelector()
+- for Loop
+- appendChild()
+- createElement()
+- push()
+- if else statements
+- classList
+- switch case
+- keyCode
+- forEach()
+- setTimeout
+- Class
+- constructor
+- setInterval()
+- removeEventListener
